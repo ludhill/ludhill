@@ -10,8 +10,8 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Janine-HTML" height="30" width="40" src="https://icongr.am/devicon/html5-plain.svg?size=128&color=cfc4b1">
   <img align="center" alt="Janine-MYSQL" height="30" width="40" src="https://icongr.am/devicon/mysql-plain.svg?size=128&color=cfc4b1">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://icongr.am/devicon/python-plain.svg?size=128&color=cfc4b1">
-
+  <img align="center" alt="Janine-Python" height="30" width="40" src="https://icongr.am/devicon/python-plain.svg?size=128&color=cfc4b1">
+  <img align="center" alt="Janine-JS" height="30" width="40" src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=cfc4b1">
   ##
 
 <div> 
