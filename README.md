@@ -12,7 +12,8 @@
   <img align="center" alt="Janine-MYSQL" height="30" width="40" src="https://icongr.am/devicon/mysql-plain.svg?size=128&color=cfc4b1">
   <img align="center" alt="Janine-Python" height="30" width="40" src="https://icongr.am/devicon/python-plain.svg?size=128&color=cfc4b1">
   <img align="center" alt="Janine-JS" height="30" width="40" src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=cfc4b1">
-  ##
+  
+##
 
 <div> 
   <a href="https://instagram.com/janinealves.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
