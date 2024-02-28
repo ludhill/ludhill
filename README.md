@@ -1,4 +1,4 @@
-## Olá sou a Janine, bem-vindo(a)!😊
+## Olá, sou a Janine, bem-vindo(a)!😊
 
 <div align="center">     
   <a href="https://github.com/janinealves04">
