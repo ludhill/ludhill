@@ -11,7 +11,7 @@ Olá, tudo bem? Me chamo Janine e sou estudante do Instituto Federal do Rio Gran
 
   ##
 </div>
-    No momento, estou me dedicando ao estudo de dados e suas estruturas, além de trabalhar com o Frontend utilizando React e JS. Ao mesmo tempo, estou aprofundando meus conhecimentos nos conceitos básicos da programação. As linguagens e frameworks que estou aprendendo são:
+    No momento, estou me dedicando ao estudo de dados e suas estruturas, além de estudar Frontend utilizando React e JS. Ao mesmo tempo, estou aprofundando meus conhecimentos nos conceitos básicos da programação. As linguagens e frameworks que estou aprendendo são:
 <div style="display: inline_block"><br>
   <img align="center" alt="Janine-HTML" height="30" width="40" src="https://icongr.am/devicon/html5-plain.svg?size=128&color=b8757c">
   <img align="center" alt="Janine-Python" height="30" width="40" src="https://icongr.am/devicon/python-plain.svg?size=128&color=b8757c">
