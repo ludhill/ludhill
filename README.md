@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ecc6c6&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A52A2A&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+a+Janine!;Seja+bem+-+vindo(a)!🌷)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ecc6c6&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+a+Janine!;Seja+bem+-+vindo(a)!🌷)](https://git.io/typing-svg)
 
 **Olá, tudo bem? Me chamo Janine e sou estudante do Instituto Federal do Rio Grande do Norte, atualmente cursando o segundo semestre de "Sistemas para Internet", focado em desenvolvimento web. Estou começando no mundo da tecnologia e aqui você poderá acompanhar minha jornada diária de aprendizado e desenvolvimento.**
 
@@ -17,7 +17,7 @@
 <div style="display: inline_block"><br>
    <img align="center" alt="Janine-JS" height="30" width="40" src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=ecc6c6">
    <img align="center" alt="Janine-JS" height="30" width="40" src="https://icongr.am/devicon/nodejs-plain.svg?size=128&color=ecc6c6">
-    <img align="center" alt="Janine-React" height="20" width="70" src="https://icongr.am/devicon/react-original.svg?size=128&color=ecc6c6">
+    <img align="center" alt="Janine-React" height="30" width="70" src="https://icongr.am/devicon/react-original.svg?size=128&color=ecc6c6">
 
 
 #
@@ -38,4 +38,4 @@
   <a href="https://www.linkedin.com/in/janinealves04" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B22222&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ecc6c6&height=120&section=footer"/>
