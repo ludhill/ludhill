@@ -15,7 +15,6 @@
 **No momento, estou me dedicando ao estudo de dados e suas estruturas, além de estudar Frontend utilizando React e JS. Ao mesmo tempo, estou aprofundando meus conhecimentos nos conceitos básicos da programação. As tecnologias que estou aprendendo são:**
 
 <div style="display: inline_block"><br>
-   <img align="center" alt="Janine-JS" height="30" width="40" src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=ecc6c6">
    <img align="center" alt="Janine-JS" height="30" width="40" src="https://icongr.am/devicon/nodejs-plain.svg?size=128&color=ecc6c6">
     <img align="center" alt="Janine-React" height="30" width="70" src="https://icongr.am/devicon/react-original.svg?size=128&color=ecc6c6">
 
@@ -23,6 +22,7 @@
 #
 **Principais skills:**
 <div style="display: inline_block"><br>
+  <img align="center" alt="Janine-JS" height="30" width="40" src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=ecc6c6">
   <img align="center" alt="Janine-HTML" height="30" width="40" src="https://icongr.am/devicon/html5-plain.svg?size=128&color=ecc6c6">
   <img align="center" alt="Janine-Python" height="30" width="40" src="https://icongr.am/devicon/python-plain.svg?size=128&color=ecc6c6">
 
