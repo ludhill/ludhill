@@ -11,32 +11,33 @@
 </div>
 
 
-#
+## 📌 Learning
 **No momento, estou me dedicando ao estudo de dados e suas estruturas, frontend com CSS, React e Js e consolidando diarimente conceitos básicos de programação através do app [mimo](https://mimo.org/). As principais tecnologias em aprendizado são:**
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="Janine-React" height="30" width="70" src="https://icongr.am/devicon/react-original.svg?size=128&color=ffffff">
-     <img align="center" alt="Janine-JS" height="30" width="40" src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=ffffff">
+    <img align="center" alt="Janine-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=ffffff">
+     <img align="center" alt="Janine-JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=ffffff">
 
 
-#
-**Principais skills:**
+## 📌 Principais skills:
 <div style="display: inline_block"><br>
-  <img align="center" alt="Janine-CSS" height="30" width="40" src="https://icongr.am/devicon/css3-plain-wordmark.svg?size=128&color=ffffff">
-  <img align="center" alt="Janine-HTML" height="30" width="40" src="https://icongr.am/devicon/html5-plain.svg?size=128&color=ffffff">
-  <img align="center" alt="Janine-Python" height="30" width="40" src="https://icongr.am/devicon/python-plain.svg?size=128&color=ffffff">
-  <img align="center" alt="Janine-MySQL" height="30" width="40" src="https://icongr.am/devicon/mysql-plain.svg?size=128&color=ffffff">
+  <img align="center" alt="Janine-CSS"  src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img align="center" alt="Janine-HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img align="center" alt="Janine-Python"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img align="center" alt="Janine-MySQL"   src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
 ##
 <details>
   <summary> Mais sobre mim: </summary>
-  - 🥰 Tenho 20 anos e vivo em Parnamirim/RN, Brasil; <br>
-  - 🎶 Meu passatempo favorito é ouvir música com uma boa leitura.
-</details>
-<div> 
-  <a href="https://instagram.com/janinealves.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  - 🥰 Tenho 20 anos e vivo em Parnamirim/RN, Brasil; </br>
+  - 🎶 Meu passatempo favorito é ouvir música com uma boa leitura. 
+
+<a href="https://instagram.com/janinealves.s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:janinealves.sil@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/janinealves04" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</details>
+  
  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
