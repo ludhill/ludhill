@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=Olá,+sou+a+Janine!;Seja+bem+-+vindo(a)!🌷)](https://git.io/typing-svg)
 
-**Olá, tudo bem? Me chamo Janine e sou estudante do Instituto Federal do Rio Grande do Norte, atualmente cursando o segundo semestre de "Sistemas para Internet", focado em desenvolvimento web. Estou começando no mundo da tecnologia e aqui você poderá acompanhar minha jornada diária de aprendizado e desenvolvimento.**
+**Olá, tudo bem? Me chamo Janine e sou estudante do Instituto Federal do Rio Grande do Norte, atualmente cursando o segundo semestre de "Sistemas para Internet", focado em desenvolvimento web. Estou à 3 anos estudando programação e aqui você poderá acompanhar minha jornada diária de aprendizado e desenvolvimento.**
 
 <div center="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=janinealves04&show_icons=true&count_private=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="Janine Alves github stats" /> 
