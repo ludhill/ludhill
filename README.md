@@ -25,6 +25,7 @@
   <img align="center" alt="Janine-HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Janine-Python"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Janine-MySQL"   src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="Janine-JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=ffffff">
 
 ## 🌹| Mais sobre mim:
   - 🥰 Tenho 20 anos e vivo em Parnamirim/RN, Brasil; </br>
