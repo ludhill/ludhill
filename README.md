@@ -18,6 +18,8 @@
   <img align="center" alt="L.Denner-Python"  src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="L.Denner-MySQL"   src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="L.Denner-JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=ffffff">
+    
+  <img align="center" alt="L.Denner-JS" src="[https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=ffffff](https://wakatime.com/badge/user/1e83bdab-0a49-4f7f-9998-9c9e4dc8ba3e/project/2e4049ce-d883-4f9a-b561-329f3a392f87.svg)">
 
 ## 🌹| Mais sobre mim:
   - 🥰 Tenho 29 anos de Parnamirim/RN, Brasil; </br>
@@ -27,6 +29,9 @@
   <a href = "mailto:lucasdenner.hs@live.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucasdennerhs30/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://ludhill.github.io"> ludhill.github.io </a>
+
+  <a href="https://wakatime.com/badge/user/1e83bdab-0a49-4f7f-9998-9c9e4dc8ba3e/project/2e4049ce-d883-4f9a-b561-329f3a392f87"><img src="https://wakatime.com/badge/user/1e83bdab-0a49-4f7f-9998-9c9e4dc8ba3e/project/2e4049ce-d883-4f9a-b561-329f3a392f87.svg" alt="wakatime"></a>
+  
 </details>
 
  
