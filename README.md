@@ -1,15 +1,18 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
 
-**Olá, tudo bem? Me chamo L.Denner e sou estudante do Instituto Federal do Rio Grande do Norte, atualmente cursando o terceiro semestre de "Sistemas para Internet", focado em desenvolvimento web. Estou estudando e programação há um bom tempo!**
+**Olá, tudo bem? Me chamo L.Denner e sou estudante do Instituto Federal do Rio Grande do Norte, atualmente cursando o quarto semestre de "Sistemas para Internet", focado em desenvolvimento web. Estou estudando e programação há um bom tempo!**
 
 
 ## 📚| Learning:
 **As principais tecnologias em aprendizado são:**
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="L.Denner-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=ffffff">
-     <img align="center" alt="L.Denner-JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=ffffff">
-
+    <img width=100% src="https://wakatime.com/share/@1e83bdab-0a49-4f7f-9998-9c9e4dc8ba3e/b3027b5a-f74f-418d-b0ab-2663047a80bd.png"/>
+    <figure><embed src="https://wakatime.com/share/@1e83bdab-0a49-4f7f-9998-9c9e4dc8ba3e/2768ed89-3065-466d-93ec-1b43eaec074c.svg"></embed></figure>
+     (https://wakatime.com/share/@1e83bdab-0a49-4f7f-9998-9c9e4dc8ba3e/2768ed89-3065-466d-93ec-1b43eaec074c.svg)
+    <!-- <img align="center" alt="L.Denner-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=ffffff"> -->
+    <!-- <img align="center" alt="L.Denner-JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=ffffff"> -->
+</div>
 
 ## 👩‍💻| Principais skills:
 <div style="display: inline_block"><br>
@@ -19,7 +22,10 @@
   <img align="center" alt="L.Denner-MySQL"   src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="L.Denner-JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=ffffff">
     
-  <img align="center" alt="L.Denner-JS" src="[https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=ffffff](https://wakatime.com/badge/user/1e83bdab-0a49-4f7f-9998-9c9e4dc8ba3e/project/2e4049ce-d883-4f9a-b561-329f3a392f87.svg)">
+  <!--img align="center" alt="L.Denner-JS" src="[https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=ffffff](https://wakatime.com/badge/user/1e83bdab-0a49-4f7f-9998-9c9e4dc8ba3e/project/2e4049ce-d883-4f9a-b561-329f3a392f87.svg)"-->
+  
+</div>
+
 
 ## 🌹| Mais sobre mim:
   - 🥰 Tenho 29 anos de Parnamirim/RN, Brasil; </br>
@@ -34,8 +40,8 @@
   
 </details>
 
- <figure><embed src="https://wakatime.com/share/@1e83bdab-0a49-4f7f-9998-9c9e4dc8ba3e/2768ed89-3065-466d-93ec-1b43eaec074c.svg"></embed></figure>
 
+     
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
 
 **inspirado no perfil de janinealves04**
