@@ -34,7 +34,7 @@
   
 </details>
 
- 
+ <figure><embed src="https://wakatime.com/share/@1e83bdab-0a49-4f7f-9998-9c9e4dc8ba3e/2768ed89-3065-466d-93ec-1b43eaec074c.svg"></embed></figure>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
 
