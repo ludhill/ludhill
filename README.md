@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=header"/>
 
-**Olá, tudo bem? Me chamo L.Denner e sou estudante do Instituto Federal do Rio Grande do Norte, atualmente cursando o quarto semestre de "Sistemas para Internet", focado em desenvolvimento web. Estou estudando e programação há um bom tempo!**
+**Olá, tudo bem? Me chamo L.Denner e sou estudante do Instituto Federal do Rio Grande do Norte, atualmente cursando o sexto semestre de "Sistemas para Internet", focado em desenvolvimento de jogos e modelos 3d. Estou estudando e programando há um bom tempo!**
 
 
 ## 📚| Learning:
